@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 
 # Load trained model
-model = joblib.load("car_price_model.pkl")
+model = joblib.load("car_price_model (1).pkl")
 
 st.set_page_config(
     page_title="Car Price Predictor",
